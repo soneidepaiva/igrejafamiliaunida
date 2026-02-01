@@ -1,0 +1,8 @@
+{
+  "name": "Família Unida - App de Devocionais e Oração",
+  "description": "Um aplicativo completo para vida espiritual com devocionais, bíblia offline, diário de oração, biblioteca de mídia e gestão de membros.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
